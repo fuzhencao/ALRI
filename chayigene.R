@@ -26,7 +26,7 @@ row2<-rownames(X)
 shaixuangene<-match(row1,row2)
 shaixuangene<-X[c(shaixuangene),]
 write.csv(shaixuangene, "DEG.csv",quote = FALSE)
-
+#Combining mutation matrix for data integration
 
 
 
