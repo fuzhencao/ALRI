@@ -1,9 +1,8 @@
 # Adaptive logistic regression via integrating gene mutation and RNA-seq for liver cancer diagnosis (ALRIGMR)
-DATA/
-
-Liver-1.csv  - The first RNA-seq data for liver cancer
-Liver-2.txt  - The second RNA-seq data for liver cancer
-Mutation.txt  -The mutation data of liver cancer
+DATA/  
+Liver-1.csv   - The first RNA-seq data for liver cancer
+Liver-2.txt   - The second RNA-seq data for liver cancer
+Mutation.txt   -The mutation data of liver cancer
 
 The implementation of the codes requires the following four steps: (1) Data integration; (2)  lmQCM-based gene overlapping grouping; (3) Significance evaluation of genes and gene groups; (4) The ALRIGMR model. The corresponding files and comments are as follows:
 
