@@ -1,6 +1,6 @@
 # Adaptive logistic regression via integrating gene mutation and RNA-seq for liver cancer diagnosis (ALRIGMR)
 DATA/  
-Liver-1.csv   - The first RNA-seq data for liver cancer  
+Liver-1.zip   - The first RNA-seq data for liver cancer  
 Liver-2.txt   - The second RNA-seq data for liver cancer  
 Mutation.txt   -The mutation data of liver cancer
 
